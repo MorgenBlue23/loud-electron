@@ -43,7 +43,7 @@
 		"react-dom": "^16.13.1",
 		"react-hotkeys": "^2.0.0",
 		"react-router-dom": "^5.2.0",
-		"react-scripts": "3.4.1",
+		"react-scripts": "5.0.1",
 		"rimraf": "^3.0.2",
 		"rxjs": "^6.5.5",
 		"semver": "^7.3.2",
